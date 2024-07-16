@@ -1,2 +1,2 @@
-# test-project
+# learn-github
 Learn how to use github
